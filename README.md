@@ -1,5 +1,5 @@
 # PROJECT TITLE 
-
+The participant’s repository thoroughly documents all code, methods, results, data used, biases and results through a well-organised set of files that includes a model card and a non-technical write-up.
 
 ## NON-TECHNICAL EXPLANATION OF YOUR PROJECT
 100 words to explain what your project is about to a general audience. 
